@@ -1,4 +1,4 @@
-<a href="https://github.com/JDekun/SwAV" target="_parent"><img src="https://badgen.net/badge/icon/MoCo?icon=github&label=GitHub" alt="GitHub"/></a>
+<a href="https://github.com/JDekun/SwAV" target="_parent"><img src="https://badgen.net/badge/icon/SwAV?icon=github&label=GitHub" alt="GitHub"/></a>
 # Unsupervised Learning of Visual Features by Contrasting Cluster Assignments
 This code provides a PyTorch implementation and pretrained models for **SwAV** (**Sw**apping **A**ssignments between **V**iews), as described in the paper [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/abs/2006.09882).
 
